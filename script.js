@@ -11,7 +11,7 @@
         title.innerHTML = " Edge | Detect User Browser | Nosib Biswas";
         faviconImg.href = "./logos/edge.png";
     } else if (userAgent.match(/firefox|fxios/i)) {
-        browser = "Firefox";
+        browser = "firefox";
         title.innerHTML = " firefox | Detect User Browser | Nosib Biswas";
         faviconImg.href = "./logos/firefox.png";
     } else if (userAgent.match(/opr\//i)) {
