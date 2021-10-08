@@ -46,8 +46,8 @@ body{
 a
 {
   position: absolute;
-  bottom: 0;
-  right: 0;
+  bottom: 14px;
+  left: 2rem;
   padding: 5px;
   color: rgb(240, 238, 238);
 }
